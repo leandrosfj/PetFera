@@ -3,22 +3,6 @@
 Sistema de cadastro de animais e profissionais responsáveis em uma loja de animais.
 Nesse sistema é possível manipular todo o cadastro e filtros de animais segundo suas classes e algumas características específicas, assim como para seus profissionais responsáveis na loja.
 
-> Versão 2.0
-> - Persistência de informações em arquivos .csv para os profissionais e para os animais ao final da execução.
-> - Leitura de dados dos mesmos arquivos .csv e instanciamento dos objetos a partir desses dados no início da execução.
-> - Uso de ponteiros inteligentes.
-> - Correção de bug para voltar ao menu principal durante a listagem de animais por classe.
-> - Correção do Makefile para criar a pasta "bin" caso não exista. 
-> - Melhorias na interface.
-
-> Versão 1.0
-> - Cadastro de um novo animal a ser comercializado. 
-> - Remoção de um animal da lista de disponíveis após a sua comercialização. 
-> - Alteração dos dados cadastrais de um animal. 
-> - Listagem dos dados cadastrais de um determinado animal ou de uma classe de animais. 
-> - Listagem de animais sob a responsabilidade de um determinado veterinário ou tratador. 
-> - Todas as atividades relacionadas ao cadastro (Inserção, Alteração, Remoção e Consulta) de veterinários e tratadores. 
-
 ## Instruções
 
 - Abrir o terminal dentro da pasta raiz do programa.
